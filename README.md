@@ -1,4 +1,4 @@
-#**IMERSÃO DADOS** - 3ª edição
+##**IMERSÃO DADOS** - 3ª edição
 
 Esse notebook visa explorar o *dataset* disponibilizado na **3ª Edição da Imersão de Dados** da **Alura**. Trata-se de um conjuntos de dados com experimentos farmacológicos.
 
